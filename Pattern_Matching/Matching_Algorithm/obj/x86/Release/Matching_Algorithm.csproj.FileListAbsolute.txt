@@ -1,0 +1,112 @@
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\BIT-03\Desktop\Matching_Algorithm_v6_DB - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\팀프로젝트\Team_Project\MS_Chart\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\팀프로젝트\Team_Project\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_Dataset\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\Park Jae-jin\Desktop\Team_Project (1)\개선\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\User\Desktop\재지니\Matching_Algorithm_v7_DB_UI\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\405-3PC\Desktop\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\Matching_Algorithm_v7_DB_UI-수정본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+D:\Matching_Algorithm_v7_보고서용\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\Matching_Algorithm_v7_보고서용\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\Matching_Algorithm_v7_보고서용\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+D:\Matching_Algorithm_v7_보고서용 - 복사본\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\bin\Release\Matching_Algorithm.exe.config
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.exe
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.pdb
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\bin\Release\Matching_Algorithm.exe
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\bin\Release\Matching_Algorithm.pdb
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csprojResolveAssemblyReference.cache
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Form1.resources
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.Properties.Resources.resources
+C:\Users\재국\Desktop\Matching_Algorithm_v7_재국이한테 줄거\Matching_Algorithm\obj\x86\Release\Matching_Algorithm.csproj.GenerateResource.Cache
